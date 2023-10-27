@@ -49,3 +49,19 @@ img {
   justify-content: center;
   flex-direction: column;
 }
+
+.showPokemonButtons {
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, 50%);
+  width: 100px;
+  height: 40px;
+}
+
+.showPokemonPlayerView {
+  position: absolute;
+  top: 25%;
+  left: 10%;
+  transform: translate(-50%, 50%);
+}
